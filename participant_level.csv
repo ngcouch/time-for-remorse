@@ -1,0 +1,37 @@
+"PID","Watch","Watch_type","Clock_use","Settled"
+1,"Yes","Analog","Neither/Equally",1
+2,"No",NA,"Mostly digital",1
+3,"Yes","Digital","Mostly digital",1
+4,"No",NA,"Mostly digital",NA
+5,"No",NA,"Mostly digital",0
+6,"No",NA,"Mostly digital",1
+7,"No",NA,"Mostly digital",1
+8,"Yes","Analog","Neither/Equally",NA
+9,"No",NA,"Mostly digital",1
+10,"Yes","Analog","Mostly digital",1
+11,"No",NA,"Mostly digital",0
+12,"Yes",NA,"Neither/Equally",0
+13,"Yes","Analog","Mostly digital",NA
+14,"No",NA,"Mostly digital",0
+15,"No",NA,"Mostly digital",1
+16,"Yes","Analog","Neither/Equally",0
+17,"Yes","Analog","Mostly digital",0
+18,"Yes","Analog","Mostly digital",1
+19,"No",NA,"Mostly digital",0
+20,"No",NA,"Neither/Equally",-1
+21,"No",NA,"Mostly digital",1
+22,"No",NA,"Mostly digital",0
+23,"Yes","Analog","Neither/Equally",2
+24,"No",NA,"Mostly digital",-1
+25,"No",NA,"Neither/Equally",1
+26,"No",NA,"Mostly digital",1
+27,"No",NA,"Neither/Equally",NA
+28,"No",NA,"Mostly digital",0
+29,"Yes","Analog","Mostly analog",-1
+30,"No",NA,"Mostly digital",NA
+31,"Yes","Analog","Neither/Equally",NA
+32,"Yes","Analog","Mostly analog",1
+33,"No",NA,"Mostly digital",0
+34,"No",NA,"Mostly digital",1
+35,"Yes","Digital","Neither/Equally",NA
+36,"No",NA,"Neither/Equally",NA
